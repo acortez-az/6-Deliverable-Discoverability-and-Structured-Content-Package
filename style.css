@@ -320,6 +320,25 @@
         text-align: left;
     }
 
+    .downloads-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 20px;
+        margin-top: 35px;
+    }
+
+    .sub-feature-card {
+        background-color: #ffffff;
+        border: 2px solid #cbd5e1;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
     .trailer-wrapper {
         display: flex;
         justify-content: center;
