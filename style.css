@@ -136,7 +136,7 @@
     }
 
     .banner-section {
-        background-image: url('Asset inventory/sea_background.png');
+        background-image: url('images/sea_background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -186,7 +186,7 @@
     }
 
     .green-nav {
-        background-image: url('Asset inventory/grass.jpg');
+        background-image: url('images/grass.jpg');
         background-repeat: repeat;
         background-color: #2e8b57;
         display: flex;
@@ -204,7 +204,7 @@
     }
 
     .nav-item {
-        background-image: url('Asset inventory/board_icon.png');
+        background-image: url('images/board_icon.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -232,7 +232,7 @@
     }
 
     .main-content {
-        background-image: url('Asset inventory/green_background.jpg');
+        background-image: url('images/green_background.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -242,7 +242,7 @@
     }
 
     .wooden-title-banner {
-        background-image: url('Asset inventory/board_icon.png');
+        background-image: url('images/board_icon.png');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         padding: 18px 60px;
@@ -296,7 +296,7 @@
     }
 
     .video-backdrop-box {
-        background-image: url('Asset inventory/video_background.png');
+        background-image: url('images/video_background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
