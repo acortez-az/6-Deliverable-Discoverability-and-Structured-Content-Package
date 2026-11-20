@@ -1,0 +1,5 @@
+"AI disclosure: if used, document purpose, output considered, verification, and what changed."
+
+Purpose: I used CHATGBT to help structure the accessibility testing methodology and draft the remediation plan with proper grammar so points come across clear and concise. And as a goal keeper to assist me with my progress and goals in order to make sure I followed the rubric.
+
+How outputs were considered and verified: Text corrections were manually reviewed and verified against the project requirements just in case it conjured up false information, findings were tested locally across multiple viewports and with the assistance of Lighthouse.
