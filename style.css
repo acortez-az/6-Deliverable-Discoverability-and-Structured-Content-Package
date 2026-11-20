@@ -421,6 +421,13 @@
         filter: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.4));
     }
 
+    .card-section-divider {
+        border: none;
+        border-top: 3px dotted #cbd5e1;
+        margin: 40px 0 30px 0;
+        width: 100%;
+    }
+
     .trailer-wrapper .video-container {
         margin-bottom: 0;
         flex-grow: 1;
