@@ -704,7 +704,7 @@
             align-items: center;
         }
 
-            a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible {
+        a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible {
             outline: 3px solid var(--color-accent-yellow);
             outline-offset: 2px;
         }
