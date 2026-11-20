@@ -708,6 +708,15 @@
             outline: 3px solid var(--color-accent-yellow);
             outline-offset: 2px;
         }
+
+        @media (prefers-reduced-motion: reduce) {
+        .overlapping-logo {
+                animation: none;
+            }
+            .nav-item {
+                transition: none;
+            }
+        }
     }
 }
 
