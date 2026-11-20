@@ -633,7 +633,7 @@
     }
 
     :focus-visible {
-    outline: 3px solid var(--color-accent-yellow);
+    outline: 3px solid var();
     outline-offset: 2px;
     box-shadow: 0 0 0 5px #ffffff;
     }
@@ -708,11 +708,6 @@
         }
         .char-info-box {
             align-items: center;
-        }
-
-        a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible {
-            outline: 3px solid var(--color-accent-yellow);
-            outline-offset: 2px;
         }
 
         @media (prefers-reduced-motion: reduce) {
