@@ -428,6 +428,26 @@
         width: 100%;
     }
 
+    .char-vertical-list {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 25px;
+    }
+
+    .char-profile-card {
+        background-color: #ffffff;
+        border: 2px solid #cbd5e1;
+        border-radius: 12px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        gap: 25px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        text-align: left;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
     .trailer-wrapper .video-container {
         margin-bottom: 0;
         flex-grow: 1;
